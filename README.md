@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
+# 🚀 SATORU DDOS V1 - Free DDoS Panel 🚀
 
-# Get Username and pass at: http://traffic1s.com/katapanel
+# Get Username and pass at: http://traffic1s.com/satoruv1
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
@@ -41,8 +41,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/katavnnn/KATA-ddos-panel/
-cd KATA-ddos-panel
+git clone https://github.com/reisohz/Satoru-Ddos-V1/
+cd Satoru-Ddos-V1
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -86,6 +86,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-FB: fb.com/katavn.2006
-Discord: katavnnn#8946
+Tele: @reisohz
+Discord: chjlngxyn#6738
 ```
