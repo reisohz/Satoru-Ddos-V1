@@ -8,6 +8,7 @@ One star = continuously updating multiple methods
  Methods for Layer 4 and 7
  Bypass (Cloudflare, OVH, NFO,...)
  # Setup
+```sh
  CentOS:
 yum install git -y
 yum install golang -y
@@ -17,7 +18,7 @@ yum install python3 -y
 yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
-
+```
 Debain, Ubuntu:
 sudo apt-get install git -y
 sudo apt-get install golang -y
