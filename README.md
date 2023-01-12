@@ -18,7 +18,7 @@ yum install python3 -y
 yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
-```
+
 Debain, Ubuntu:
 sudo apt-get install git -y
 sudo apt-get install golang -y
@@ -54,7 +54,9 @@ apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 python3 c2.py
+```
 # Credit
+```sh
 zxcr9999 (Reworked CnC and added some methods .-.)
 SkyWtkhIsBack (Example Panel and L7 methods <3)
 Empfaked (Layer 7 methods <3)
@@ -64,10 +66,15 @@ R00tS3C (Layer 4 and AMP methods <3)
 forkyyy (LAYER 7 METHODS <3)
 Leeon123 (SPECIAL METHODS <3)
 TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+```
 # TOS:
+```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
+```
 # CONTACT:
+```sh
 Telegram: @reisoh
 Discord: chjlngxyn#6738
+```
