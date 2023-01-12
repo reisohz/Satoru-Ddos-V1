@@ -1,15 +1,23 @@
-# Satoru-Ddos-V1 🚀
-Thank you for using, please help me press a star button, thank you very much.
+<div align=center>
+ 
+# 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
+
+# Get Username and pass at: http://traffic1s.com/katapanel
+# README ♥️
+Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
+
 # Info
- Open Source
- Powerful
- Simple
- Methods for Layer 4 and 7
- Bypass (Cloudflare, OVH, NFO,...)
- # Setup
+- [x] Open Source
+- [x] Powerful
+- [x] Simple
+- [x] Methods for Layer 4 and 7
+- [x] Bypass (Cloudflare, OVH, NFO,...)  
+
+
+# Setup
 ```sh
- CentOS:
+CentOS:
 yum install git -y
 yum install golang -y
 yum install perl -y
@@ -33,8 +41,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/reisohz/Satoru-Ddos-V1/
-cd Satoru-Ddos-V1
+git clone https://github.com/katavnnn/KATA-ddos-panel/
+cd KATA-ddos-panel
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -55,7 +63,8 @@ ulimit -n 999999
 chmod 777 *
 python3 c2.py
 ```
-# Credit
+
+# Credits
 ```sh
 zxcr9999 (Reworked CnC and added some methods .-.)
 SkyWtkhIsBack (Example Panel and L7 methods <3)
@@ -67,14 +76,16 @@ forkyyy (LAYER 7 METHODS <3)
 Leeon123 (SPECIAL METHODS <3)
 TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
 ```
+
 # TOS:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
+
 # CONTACT:
 ```sh
-Telegram: @reisoh
-Discord: chjlngxyn#6738
+FB: fb.com/katavn.2006
+Discord: katavnnn#8946
 ```
